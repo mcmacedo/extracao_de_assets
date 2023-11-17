@@ -1,2 +1,6 @@
 __pycache__/
 env/
+mysql_vol/
+
+*.json
+*.db
